@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 95vh;
+    width: 95;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Comforter', cursive;
+    font-size: 30px;
+    background-image: url(/img/animals-art-cartoon-cobra-wallpaper-preview.jpg);
+    background-repeat:round ;
+   
+}
