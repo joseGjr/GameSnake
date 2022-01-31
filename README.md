@@ -8,7 +8,7 @@
 
 
 <h3 align="center"> 
-🚧  Em finalizado  🚧
+🚧 Finalizado  🚧
 </h3>
 
 
@@ -40,6 +40,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 
-<hr/>
+<hr>
 
 Feito por José Jr.
