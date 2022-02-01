@@ -16,7 +16,7 @@
 Projeto desenvolvido para aprimorar meus conhecimentos em Html , Css e JS.
 
 ### ✅ Demonstração
-<img src=".//img/Captura de tela de 2022-01-31 20-24-14.png"> 
+ <img src="./img/demo.gif">
 
 ### ⚙ Pré-requisitos
 
