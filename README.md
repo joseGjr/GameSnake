@@ -40,6 +40,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 
-<hr>
-
 Feito por José Jr.
