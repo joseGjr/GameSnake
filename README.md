@@ -1,6 +1,6 @@
 # Snake Game 🐍🎮
 
-![Snake Game](./img/snake_game_preview.png)
+
 
 ## Sobre o Projeto 📝
 Este é um jogo clássico da cobrinha desenvolvido com HTML5, CSS3 e JavaScript. O objetivo do jogo é controlar a cobra e fazê-la crescer ao coletar comida sem colidir com as bordas ou com o próprio corpo.
